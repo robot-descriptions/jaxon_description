@@ -5,13 +5,13 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/BODY_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/BODY.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/BODY_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/BODY.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -24,13 +24,13 @@
     <visual>
       <origin xyz="0.006 0 0.128" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/CHEST_LINK0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/CHEST_LINK0.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0.006 0 0.128" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/CHEST_LINK0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/CHEST_LINK0.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -43,13 +43,13 @@
     <visual>
       <origin xyz="0 0 0.025" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/CHEST_LINK1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/CHEST_LINK1.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 0.025" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/CHEST_LINK1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/CHEST_LINK1.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -62,13 +62,13 @@
     <visual>
       <origin xyz="0 0 0.3085" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/CHEST_LINK2_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/CHEST_LINK2.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 0.3085" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/CHEST_LINK2_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/CHEST_LINK2.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -81,13 +81,13 @@
     <visual>
       <origin xyz="-0.015 0 0.0835" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/HEAD_LINK0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/HEAD_LINK0.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="-0.015 0 0.0835" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/HEAD_LINK0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/HEAD_LINK0.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -100,13 +100,13 @@
     <visual>
       <origin xyz="0 0 0.102" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/HEAD_LINK1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/HEAD_LINK1.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 0.102" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/HEAD_LINK1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/HEAD_LINK1.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -119,13 +119,13 @@
     <visual>
       <origin xyz="0.0559 0 0.14425" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RANGE_LINK_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RANGE_LINK.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0.0559 0 0.14425" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RANGE_LINK_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RANGE_LINK.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -138,13 +138,13 @@
     <visual>
       <origin xyz="0 0.0875 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK0.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0.0875 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK0.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -157,13 +157,13 @@
     <visual>
       <origin xyz="0 0.07275 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK1.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0.07275 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK1.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -176,13 +176,13 @@
     <visual>
       <origin xyz="0 0.057 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK2_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK2.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0.057 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK2_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK2.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -195,13 +195,13 @@
     <visual>
       <origin xyz="0 0 -0.1965" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK3_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK3.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.1965" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK3_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK3.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -214,13 +214,13 @@
     <visual>
       <origin xyz="0 0 -0.126" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK4_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK4.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.126" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK4_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK4.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -233,13 +233,13 @@
     <visual>
       <origin xyz="0 0 -0.1275" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK5_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK5.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.1275" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK5_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK5.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -252,13 +252,13 @@
     <visual>
       <origin xyz="0 0 -0.146" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK6_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK6.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.146" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK6_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK6.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -271,13 +271,13 @@
     <visual>
       <origin xyz="0 0 -0.04" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK7_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK7.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.04" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LARM_LINK7_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_LINK7.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -290,13 +290,13 @@
     <visual>
       <origin xyz="0 -0.06 -0.1725" rpy="0 1.5708 -3.14159"/>
       <geometry>
-        <mesh filename="../meshes/LARM_FINGER0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_FINGER0.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 -0.06 -0.1725" rpy="0 1.5708 -3.14159"/>
       <geometry>
-        <mesh filename="../meshes/LARM_FINGER0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_FINGER0.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -309,13 +309,13 @@
     <visual>
       <origin xyz="0 0.06 -0.1725" rpy="0 1.5708 -3.14159"/>
       <geometry>
-        <mesh filename="../meshes/LARM_FINGER1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_FINGER1.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0.06 -0.1725" rpy="0 1.5708 -3.14159"/>
       <geometry>
-        <mesh filename="../meshes/LARM_FINGER1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LARM_FINGER1.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -328,13 +328,13 @@
     <visual>
       <origin xyz="0 -0.0875 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK0.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 -0.0875 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK0.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -347,13 +347,13 @@
     <visual>
       <origin xyz="0 -0.07275 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK1.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 -0.07275 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK1.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -366,13 +366,13 @@
     <visual>
       <origin xyz="0 -0.057 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK2_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK2.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 -0.057 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK2_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK2.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -385,13 +385,13 @@
     <visual>
       <origin xyz="0 0 -0.1965" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK3_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK3.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.1965" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK3_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK3.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -404,13 +404,13 @@
     <visual>
       <origin xyz="0 0 -0.126" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK4_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK4.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.126" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK4_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK4.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -423,13 +423,13 @@
     <visual>
       <origin xyz="0 0 -0.1275" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK5_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK5.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.1275" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK5_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK5.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -442,13 +442,13 @@
     <visual>
       <origin xyz="0 0 -0.146" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK6_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK6.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.146" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK6_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK6.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -461,13 +461,13 @@
     <visual>
       <origin xyz="0 0 -0.04" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK7_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK7.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.04" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_LINK7_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_LINK7.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -480,13 +480,13 @@
     <visual>
       <origin xyz="0 0.06 -0.1725" rpy="0 1.5708 -0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_FINGER0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_FINGER0.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0.06 -0.1725" rpy="0 1.5708 -0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_FINGER0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_FINGER0.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -499,13 +499,13 @@
     <visual>
       <origin xyz="0 -0.06 -0.1725" rpy="0 1.5708 -0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_FINGER1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_FINGER1.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 -0.06 -0.1725" rpy="0 1.5708 -0"/>
       <geometry>
-        <mesh filename="../meshes/RARM_FINGER1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RARM_FINGER1.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -518,13 +518,13 @@
     <visual>
       <origin xyz="0 0.1 0.0095" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LLEG_LINK0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LLEG_LINK0.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0.1 0.0095" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LLEG_LINK0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LLEG_LINK0.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -537,13 +537,13 @@
     <visual>
       <origin xyz="0 0 -0.122" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LLEG_LINK1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LLEG_LINK1.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.122" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LLEG_LINK1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LLEG_LINK1.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -556,13 +556,13 @@
     <visual>
       <origin xyz="0 0 -0.01" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LLEG_LINK2_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LLEG_LINK2.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.01" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LLEG_LINK2_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LLEG_LINK2.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -575,13 +575,13 @@
     <visual>
       <origin xyz="0 0 -0.38" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LLEG_LINK3_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LLEG_LINK3.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.38" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LLEG_LINK3_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LLEG_LINK3.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -594,13 +594,13 @@
     <visual>
       <origin xyz="0 0 -0.38" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LLEG_LINK4_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LLEG_LINK4.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.38" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LLEG_LINK4_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LLEG_LINK4.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -613,13 +613,13 @@
     <visual>
       <origin xyz="0 0 -0.04" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LLEG_LINK5_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LLEG_LINK5.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.04" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/LLEG_LINK5_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/LLEG_LINK5.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -632,13 +632,13 @@
     <visual>
       <origin xyz="0 -0.1 0.0095" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RLEG_LINK0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RLEG_LINK0.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 -0.1 0.0095" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RLEG_LINK0_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RLEG_LINK0.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -651,13 +651,13 @@
     <visual>
       <origin xyz="0 0 -0.122" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RLEG_LINK1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RLEG_LINK1.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.122" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RLEG_LINK1_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RLEG_LINK1.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -670,13 +670,13 @@
     <visual>
       <origin xyz="0 0 -0.01" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RLEG_LINK2_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RLEG_LINK2.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.01" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RLEG_LINK2_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RLEG_LINK2.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -689,13 +689,13 @@
     <visual>
       <origin xyz="0 0 -0.38" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RLEG_LINK3_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RLEG_LINK3.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.38" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RLEG_LINK3_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RLEG_LINK3.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -708,13 +708,13 @@
     <visual>
       <origin xyz="0 0 -0.38" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RLEG_LINK4_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RLEG_LINK4.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.38" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RLEG_LINK4_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RLEG_LINK4.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
@@ -727,13 +727,13 @@
     <visual>
       <origin xyz="0 0 -0.04" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RLEG_LINK5_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RLEG_LINK5.dae" scale="1 1 1" />
       </geometry>
     </visual>
     <collision>
       <origin xyz="0 0 -0.04" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="../meshes/RLEG_LINK5_mesh.dae" scale="1 1 1" />
+        <mesh filename="../meshes/RLEG_LINK5.dae" scale="1 1 1" />
       </geometry>
     </collision>
     <inertial>
